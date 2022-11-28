@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GoLang, JavaScript**
 
-- 👨‍💻 Find out about me [www.naterussell.tech](www.naterussell.tech)
+- 👨‍💻 Find out about me [naterussell.tech](naterussell.tech)
 
 - 📫 How to reach me **n.d.russell@hotmail.com**
 
