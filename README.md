@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **n.d.russell@hotmail.com**
 
-- ⚡ Fun fact **I have been coding for 1.5 years**
+- ⚡ Fun fact **I have been coding for 2 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
