@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Social-Network**
 
-- 🌱 I’m currently learning **GoLang, JavaScript**
+- 🌱 I’m currently learning **GoLang and Rust**
 
 - 👨‍💻 Find out about me [naterussell.tech](https://www.naterussell.tech/)
 
