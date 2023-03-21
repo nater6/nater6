@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate Russell</h1>
 <h3 align="center">A Committed Software Engineer</h3>
 
-- 🔭 I’m currently working on **Social-Network**
+- 🔭 I’m currently working on **Smart-Road**
 
-- 🌱 I’m currently learning **GoLang and Rust**
+- 🌱 I’m currently learning **GoLang, Rust and JavaScript**
 
 - 👨‍💻 Find out about me [naterussell.tech](https://www.naterussell.tech/)
 
