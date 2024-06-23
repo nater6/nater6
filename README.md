@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nate Russell</h1>
 <h3 align="center">A Committed Software Engineer</h3>
 
-- 👨‍💻 Find out about me [naterussell.tech](https://www.naterussell.tech/)
-
 - 📫 How to reach me **n.d.russell@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
